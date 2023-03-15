@@ -1,1 +1,2 @@
 Stream file
+line 2
